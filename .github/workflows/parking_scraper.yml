@@ -3,7 +3,9 @@ name: Parking Data Scraper
 on:
   schedule:
     - cron: '*/15 * * * *' 
-  workflow_dispatch:      
+  workflow_dispatch:
+  repository_dispatch: 
+    types: [run-scraper]
 
 permissions:
   contents: write         
