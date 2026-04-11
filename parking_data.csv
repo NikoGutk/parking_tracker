@@ -101231,3 +101231,19 @@ timestamp,parking_name,address,total_spots,free_spots,occupied_spots,parking_sta
 11-04-2026 21:41:09,Post Basel,Gartenstrasse 143,,77,,offen
 11-04-2026 21:41:09,Anfos,Henric Petri-Strasse 21,165,156,9,offen
 11-04-2026 21:41:09,Kunstmuseum,St. Alban-Graben 3,350,281,69,offen
+11-04-2026 22:01:44,City,Schanzenstrasse 48,1114,1024,90,offen
+11-04-2026 22:01:44,Europe,Hammerstrasse 68,120,88,32,offen
+11-04-2026 22:01:44,Rebgasse,Rebgasse 20,250,36,214,zu
+11-04-2026 22:01:44,Aeschen,Aeschengraben 9,95,87,8,offen
+11-04-2026 22:01:44,Claramatte,Klingentalstrasse 25,120,94,26,offen
+11-04-2026 22:01:44,Centralbahn,Gartenstrasse 150,287,267,20,offen
+11-04-2026 22:01:44,Bahnhof Süd,Güterstrasse 115,100,100,0,offen
+11-04-2026 22:01:44,Elisabethen,Steinentorberg 5,840,601,239,offen
+11-04-2026 22:01:44,Steinen,Steinenschanze 5,526,208,318,offen
+11-04-2026 22:01:44,Storchen,Fischmarkt 10,142,96,46,offen
+11-04-2026 22:01:44,Bad. Bahnhof,Schwarzwaldstrasse 160,750,555,195,offen
+11-04-2026 22:01:44,Messe,Riehenstrasse 101,727,644,83,offen
+11-04-2026 22:01:44,Clarahuus,Webergasse 34,52,0,52,offen
+11-04-2026 22:01:44,Post Basel,Gartenstrasse 143,,77,,zu
+11-04-2026 22:01:44,Anfos,Henric Petri-Strasse 21,165,158,7,zu
+11-04-2026 22:01:44,Kunstmuseum,St. Alban-Graben 3,350,284,66,offen
