@@ -119951,3 +119951,19 @@ timestamp,parking_name,address,total_spots,free_spots,occupied_spots,parking_sta
 12-07-2026 21:31:55,Post Basel,Gartenstrasse 143,,77,,offen
 12-07-2026 21:31:55,Anfos,Henric Petri-Strasse 21,165,168,-3,zu
 12-07-2026 21:31:55,Kunstmuseum,St. Alban-Graben 3,350,304,46,offen
+12-07-2026 22:30:45,City,Schanzenstrasse 48,1114,1045,69,offen
+12-07-2026 22:30:45,Europe,Hammerstrasse 68,120,85,35,offen
+12-07-2026 22:30:45,Rebgasse,Rebgasse 20,250,0,250,zu
+12-07-2026 22:30:45,Aeschen,Aeschengraben 9,95,89,6,offen
+12-07-2026 22:30:45,Claramatte,Klingentalstrasse 25,120,125,-5,offen
+12-07-2026 22:30:45,Centralbahn,Gartenstrasse 150,287,278,9,offen
+12-07-2026 22:30:45,Bahnhof Süd,Güterstrasse 115,100,100,0,offen
+12-07-2026 22:30:45,Elisabethen,Steinentorberg 5,840,773,67,offen
+12-07-2026 22:30:45,Steinen,Steinenschanze 5,526,454,72,offen
+12-07-2026 22:30:45,Storchen,Fischmarkt 10,142,111,31,offen
+12-07-2026 22:30:45,Bad. Bahnhof,Schwarzwaldstrasse 160,750,222,528,offen
+12-07-2026 22:30:45,Messe,Riehenstrasse 101,727,713,14,offen
+12-07-2026 22:30:45,Clarahuus,Webergasse 34,52,42,10,offen
+12-07-2026 22:30:45,Post Basel,Gartenstrasse 143,,77,,zu
+12-07-2026 22:30:45,Anfos,Henric Petri-Strasse 21,165,168,-3,offen
+12-07-2026 22:30:45,Kunstmuseum,St. Alban-Graben 3,350,304,46,offen
